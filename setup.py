@@ -9,6 +9,5 @@ setup(
     author_email = '',
     url = 'https://github.com/Curious-Joe/Anonymizer.git',
     download_url = 'https://github.com/Curious-Joe/Anonymizer/archive/refs/tags/v1.0.0.tar.gz',
-    keywords = ['tag1', 'tag2'],
-    classifiers = [],
+    keywords = ['tag1', 'tag2']
 )
