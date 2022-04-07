@@ -1,0 +1,11 @@
+README.md
+setup.py
+Silly_Anonymizer/__init__.py
+Silly_Anonymizer.egg-info/PKG-INFO
+Silly_Anonymizer.egg-info/SOURCES.txt
+Silly_Anonymizer.egg-info/dependency_links.txt
+Silly_Anonymizer.egg-info/top_level.txt
+Silly_Anonymizer/NonStringOperation/__init__.py
+Silly_Anonymizer/NonStringOperation/idfier.py
+Silly_Anonymizer/StringOperation/__init__.py
+Silly_Anonymizer/StringOperation/stringProcess.py
